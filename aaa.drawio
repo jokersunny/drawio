@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T14:45:34.030Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="W4tOs6GS4xqLz600Mdz7" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T15:09:53.224Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="UsrnvFydXyeKhDGGUpbV" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Ekg-3o6nj7kemqUT62nF">
     <mxGraphModel dx="1010" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
         <mxCell id="jEDZygAeWDUvjjWKRz_K-26" value="相同表的数据合并" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jEDZygAeWDUvjjWKRz_K-27" value="保留scan，project&lt;div&gt;去掉agg，join，fliter&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="jEDZygAeWDUvjjWKRz_K-27" value="保留scan，project，modify&lt;div&gt;去掉agg，join，fliter，union&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
